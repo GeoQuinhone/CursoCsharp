@@ -1,0 +1,14 @@
+C:\projetosC#\orientacaoObjetos\orientacaoObjetos\bin\Debug\net8.0\orientacaoObjetos.exe
+C:\projetosC#\orientacaoObjetos\orientacaoObjetos\bin\Debug\net8.0\orientacaoObjetos.deps.json
+C:\projetosC#\orientacaoObjetos\orientacaoObjetos\bin\Debug\net8.0\orientacaoObjetos.runtimeconfig.json
+C:\projetosC#\orientacaoObjetos\orientacaoObjetos\bin\Debug\net8.0\orientacaoObjetos.dll
+C:\projetosC#\orientacaoObjetos\orientacaoObjetos\bin\Debug\net8.0\orientacaoObjetos.pdb
+C:\projetosC#\orientacaoObjetos\orientacaoObjetos\obj\Debug\net8.0\orientacaoObjetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetosC#\orientacaoObjetos\orientacaoObjetos\obj\Debug\net8.0\orientacaoObjetos.AssemblyInfoInputs.cache
+C:\projetosC#\orientacaoObjetos\orientacaoObjetos\obj\Debug\net8.0\orientacaoObjetos.AssemblyInfo.cs
+C:\projetosC#\orientacaoObjetos\orientacaoObjetos\obj\Debug\net8.0\orientacaoObjetos.csproj.CoreCompileInputs.cache
+C:\projetosC#\orientacaoObjetos\orientacaoObjetos\obj\Debug\net8.0\orientacaoObjetos.dll
+C:\projetosC#\orientacaoObjetos\orientacaoObjetos\obj\Debug\net8.0\refint\orientacaoObjetos.dll
+C:\projetosC#\orientacaoObjetos\orientacaoObjetos\obj\Debug\net8.0\orientacaoObjetos.pdb
+C:\projetosC#\orientacaoObjetos\orientacaoObjetos\obj\Debug\net8.0\orientacaoObjetos.genruntimeconfig.cache
+C:\projetosC#\orientacaoObjetos\orientacaoObjetos\obj\Debug\net8.0\ref\orientacaoObjetos.dll

@@ -1,0 +1,14 @@
+C:\projetosC#\ArraysListas\ArraysListas\bin\Debug\net8.0\ArraysListas.exe
+C:\projetosC#\ArraysListas\ArraysListas\bin\Debug\net8.0\ArraysListas.deps.json
+C:\projetosC#\ArraysListas\ArraysListas\bin\Debug\net8.0\ArraysListas.runtimeconfig.json
+C:\projetosC#\ArraysListas\ArraysListas\bin\Debug\net8.0\ArraysListas.dll
+C:\projetosC#\ArraysListas\ArraysListas\bin\Debug\net8.0\ArraysListas.pdb
+C:\projetosC#\ArraysListas\ArraysListas\obj\Debug\net8.0\ArraysListas.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetosC#\ArraysListas\ArraysListas\obj\Debug\net8.0\ArraysListas.AssemblyInfoInputs.cache
+C:\projetosC#\ArraysListas\ArraysListas\obj\Debug\net8.0\ArraysListas.AssemblyInfo.cs
+C:\projetosC#\ArraysListas\ArraysListas\obj\Debug\net8.0\ArraysListas.csproj.CoreCompileInputs.cache
+C:\projetosC#\ArraysListas\ArraysListas\obj\Debug\net8.0\ArraysListas.dll
+C:\projetosC#\ArraysListas\ArraysListas\obj\Debug\net8.0\refint\ArraysListas.dll
+C:\projetosC#\ArraysListas\ArraysListas\obj\Debug\net8.0\ArraysListas.pdb
+C:\projetosC#\ArraysListas\ArraysListas\obj\Debug\net8.0\ArraysListas.genruntimeconfig.cache
+C:\projetosC#\ArraysListas\ArraysListas\obj\Debug\net8.0\ref\ArraysListas.dll

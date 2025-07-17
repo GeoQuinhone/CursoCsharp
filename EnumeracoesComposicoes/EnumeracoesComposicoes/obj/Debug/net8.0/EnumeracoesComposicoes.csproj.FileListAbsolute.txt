@@ -1,0 +1,14 @@
+C:\projetosC#\EnumeracoesComposicoes\EnumeracoesComposicoes\bin\Debug\net8.0\EnumeracoesComposicoes.exe
+C:\projetosC#\EnumeracoesComposicoes\EnumeracoesComposicoes\bin\Debug\net8.0\EnumeracoesComposicoes.deps.json
+C:\projetosC#\EnumeracoesComposicoes\EnumeracoesComposicoes\bin\Debug\net8.0\EnumeracoesComposicoes.runtimeconfig.json
+C:\projetosC#\EnumeracoesComposicoes\EnumeracoesComposicoes\bin\Debug\net8.0\EnumeracoesComposicoes.dll
+C:\projetosC#\EnumeracoesComposicoes\EnumeracoesComposicoes\bin\Debug\net8.0\EnumeracoesComposicoes.pdb
+C:\projetosC#\EnumeracoesComposicoes\EnumeracoesComposicoes\obj\Debug\net8.0\EnumeracoesComposicoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetosC#\EnumeracoesComposicoes\EnumeracoesComposicoes\obj\Debug\net8.0\EnumeracoesComposicoes.AssemblyInfoInputs.cache
+C:\projetosC#\EnumeracoesComposicoes\EnumeracoesComposicoes\obj\Debug\net8.0\EnumeracoesComposicoes.AssemblyInfo.cs
+C:\projetosC#\EnumeracoesComposicoes\EnumeracoesComposicoes\obj\Debug\net8.0\EnumeracoesComposicoes.csproj.CoreCompileInputs.cache
+C:\projetosC#\EnumeracoesComposicoes\EnumeracoesComposicoes\obj\Debug\net8.0\EnumeracoesComposicoes.dll
+C:\projetosC#\EnumeracoesComposicoes\EnumeracoesComposicoes\obj\Debug\net8.0\refint\EnumeracoesComposicoes.dll
+C:\projetosC#\EnumeracoesComposicoes\EnumeracoesComposicoes\obj\Debug\net8.0\EnumeracoesComposicoes.pdb
+C:\projetosC#\EnumeracoesComposicoes\EnumeracoesComposicoes\obj\Debug\net8.0\EnumeracoesComposicoes.genruntimeconfig.cache
+C:\projetosC#\EnumeracoesComposicoes\EnumeracoesComposicoes\obj\Debug\net8.0\ref\EnumeracoesComposicoes.dll

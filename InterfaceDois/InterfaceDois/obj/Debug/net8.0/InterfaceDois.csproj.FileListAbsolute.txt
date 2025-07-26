@@ -1,0 +1,15 @@
+C:\projetosC#\InterfaceDois\InterfaceDois\obj\Debug\net8.0\InterfaceDois.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetosC#\InterfaceDois\InterfaceDois\obj\Debug\net8.0\InterfaceDois.AssemblyInfoInputs.cache
+C:\projetosC#\InterfaceDois\InterfaceDois\obj\Debug\net8.0\InterfaceDois.AssemblyInfo.cs
+C:\projetosC#\InterfaceDois\InterfaceDois\obj\Debug\net8.0\InterfaceDois.csproj.CoreCompileInputs.cache
+C:\projetosC#\InterfaceDois\InterfaceDois\obj\Debug\net8.0\InterfaceDois.sourcelink.json
+C:\projetosC#\InterfaceDois\InterfaceDois\bin\Debug\net8.0\InterfaceDois.exe
+C:\projetosC#\InterfaceDois\InterfaceDois\bin\Debug\net8.0\InterfaceDois.deps.json
+C:\projetosC#\InterfaceDois\InterfaceDois\bin\Debug\net8.0\InterfaceDois.runtimeconfig.json
+C:\projetosC#\InterfaceDois\InterfaceDois\bin\Debug\net8.0\InterfaceDois.dll
+C:\projetosC#\InterfaceDois\InterfaceDois\bin\Debug\net8.0\InterfaceDois.pdb
+C:\projetosC#\InterfaceDois\InterfaceDois\obj\Debug\net8.0\InterfaceDois.dll
+C:\projetosC#\InterfaceDois\InterfaceDois\obj\Debug\net8.0\refint\InterfaceDois.dll
+C:\projetosC#\InterfaceDois\InterfaceDois\obj\Debug\net8.0\InterfaceDois.pdb
+C:\projetosC#\InterfaceDois\InterfaceDois\obj\Debug\net8.0\InterfaceDois.genruntimeconfig.cache
+C:\projetosC#\InterfaceDois\InterfaceDois\obj\Debug\net8.0\ref\InterfaceDois.dll
